@@ -2,7 +2,7 @@
 
 A 3.7V LiPo battery charging circuit coupled with a buck-boost converter to provide steady **3.3V** for an **ESP32**
 
-**View the [interactive BOM](https://github.pierretek.com/ESP32-Lipo-Powersupply) here!**
+**View the [interactive BOM](https://pierretek.github.io/ESP32-Lipo-Powersupply/) here!**
  
 ## Features 
 - Battery under-voltage and over-voltage protection **(2.800V - 4.275V)**
@@ -44,7 +44,7 @@ A 3.7V LiPo battery charging circuit coupled with a buck-boost converter to prov
 ## Credits / Tools Used
 - KiCad 
 - [kicad-jlcpcb-tools](https://github.com/bouni/kicad-jlcpcb-tools) (to generate the jlcpcb files)
-- [InteractiveHtmlBom](https://github.com/openscopeproject/interactivehtmlbom) (for the [interactive html BOM](https://github.pierretek.com/ESP32-Lipo-Powersupply))
+- [InteractiveHtmlBom](https://github.com/openscopeproject/interactivehtmlbom) (for the [interactive html BOM](https://pierretek.github.io/ESP32-Lipo-Powersupply/))
 
 
 _thanks for reading_
